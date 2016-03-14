@@ -1,0 +1,59 @@
+.carousel .item {
+	height: 100%;
+}
+
+.carousel .item img {
+	height: 100%;
+	width: 100%;
+}
+
+.iconandshit {
+	display: inline;
+	float: left;
+}
+
+.header {
+	background-color: rgba(0,0,0,0.4);
+	width: 100%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	position: absolute;
+	top: 0;
+	z-index: 1;
+}
+
+.header .menu {
+	float:right;
+	list-style: none;
+	height: 20px;
+	margin-top: 8px;
+}
+
+.menu > li {
+	display: inline;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 1.25em;
+	vertical-align: middle;
+	text-decoration: none;
+	font-style: none;
+}
+
+.menu li a:link {
+	text-decoration: none;
+	color: #DFE8DC;
+}
+
+.menu li a:hover {
+	color: #68EDC5;
+}
+
+.logo-icon {
+	height: 40px;
+	width: 40px;
+}
+
+.logo-heading {
+	height: 40px;
+	width: auto;
+}
