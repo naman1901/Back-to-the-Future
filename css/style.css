@@ -39,12 +39,13 @@
 	font-style: none;
 }
 
-.menu li a:link {
+.menu li a {
 	text-decoration: none;
-	color: #DFE8DC;
+	color: #FFFFFF;
 }
 
 .menu li a:hover {
+	text-decoration: none;
 	color: #68EDC5;
 }
 
