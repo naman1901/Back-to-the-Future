@@ -1,3 +1,8 @@
 # Back-to-the-Future
-1st attempt at making a webpage
-Used HTML, CSS and JavaScript
+
+
+My 1st attempt at making a webpage!
+
+
+It is made using HTML, CSS and JavaScript.
+
